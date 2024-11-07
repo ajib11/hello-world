@@ -1,3 +1,2 @@
 # hello-world
-This repository is for introducing myself.
-Hello, I'm Miftah Nur Fauzan, an cyber security enthusiast.
+Hello, I'm Miftah Nur Fauzan, a cyber security enthusiast.
